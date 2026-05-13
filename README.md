@@ -11,6 +11,8 @@ Copy the two files into your IDA Pro installation:
 
 Then open any `.zvm` bytecode file — IDA will auto-detect the format and use the Zeus VM processor.
 
+You can try the disassembly on this sample [f792997cb36a477fa55102ad6b680c97e3517b2e63c83c802bf8d57ae9ed525e](https://www.unpac.me/results/bb557f46-a12a-4737-a638-787f982963fd?hash=f792997cb36a477fa55102ad6b680c97e3517b2e63c83c802bf8d57ae9ed525e#/). Or on the dumped shellcode in the repository !
+
 ## Features
 
 - 69 instructions fully decoded (arithmetic, bitwise, memory, control flow, RC4, shuffle)
